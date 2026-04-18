@@ -2,7 +2,7 @@
 
 By OJ Bucao and Claude Opus 4.7
 
-Disclaimer: This is not serious research. I haven't dug into the primary sources yet. This is merely the result of a very dense exploratory conversation between me and Claude. The central thesis (especially the bridge-architecture, the opacity principle, and the hypothetical mechanisms) are mine which Claude augmented and strengthened through back-and-forth challenges and restructurings.
+Disclaimer: This is not serious research. I haven't dug into the primary sources yet. This is merely the result of a very dense exploratory conversation between me and Claude. The central thesis (especially the bridge-architecture, the opacity principle, and the hypothetical mechanisms) are mine which Claude augmented and strengthened through back-and-forth challenges and restructurings. Claude has brought up related works which I have not vetted yet if true. I have no formal background in Philosophy nor do I claim to be an expert in anything. I'm just a widely-read guy with opinions.
 
 ## Abstract
 
