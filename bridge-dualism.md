@@ -1,6 +1,7 @@
 # Bridge Dualism: An Architectural Account of Mind, Consciousness, and the Limits of Artificial Agency
 
 By OJ Bucao and Claude Opus 4.7
+
 Disclaimer: This is not serious research. I haven't dug into the primary sources yet. This is merely the result of a very dense exploratory conversation between me and Claude. All of the positions and ideas are mine which claude augmented and strengthened through back-and-forth challenges and restructurings.
 
 ## Abstract
