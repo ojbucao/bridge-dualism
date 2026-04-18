@@ -1,5 +1,7 @@
 # Bridge Dualism: An Architectural Account of Mind, Consciousness, and the Limits of Artificial Agency
 
+By OJ Bucao and Claude Opus 4.7
+
 ## Abstract
 
 This paper defends a specific form of interactionist substance dualism organized around a single architectural commitment: the soul is causally coupled to a particular brain through a narrow, bidirectional interface whose physical terminus admits of causal non-closure and whose non-physical terminus has no spatial, perceptual, or sensory properties of its own. This coupling structure generates a unified account of conscious states, post-mortem persistence, and the categorical difference between ensouled minds and artificial systems. The view is presented as a specific contemporary articulation of the Eccles-Popper tradition, tightened in response to standard objections about causal closure, epiphenomenalism, and the principled basis for denying ensoulment to artifacts. Its theological extensions are distinguished from its philosophical core so that the philosophical claims stand or fall on their own.
