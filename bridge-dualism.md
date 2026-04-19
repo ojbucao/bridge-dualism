@@ -2,7 +2,7 @@
 
 By OJ Bucao and Claude Opus 4.7
 
-Disclaimer: This is not serious research. I haven't dug into the primary sources yet. This is merely the result of a very dense and long exploratory conversation between me and Claude. The central thesis (especially the bridge-architecture, the opacity principle, and the hypothetical mechanisms) are mine which Claude augmented and strengthened through back-and-forth challenges and restructurings. Claude has brought up related works which I have not vetted yet if true. I have no formal background in Philosophy nor do I claim to be an expert in anything. I'm just a widely-read, armchair guy with ideas and opinions. This version of this paper is fully written by Claude as prompted by me, synthesized from our conversation. When I have time I will dig into the literature and properly write this paper. For now, it is an impressively written, shadily defended, kernel of an interesting model. 
+Disclaimer: This paper presents an exploratory philosophical model developed through iterative discussion and refinement. It is not yet a fully researched or source-grounded work, and several claims will require further engagement with the primary literature. The central architectural ideas—particularly the bridge model, the opacity principle, and the proposed mechanism of interaction—are original contributions, developed and refined through dialogue. While AI-assisted drafting was used in shaping this document, the underlying structure, claims, and direction reflect my own thinking. This should be read as a structured proposal rather than a finished argument: a model intended to be clarified, challenged, and strengthened through further study and critique.
 
 ## Abstract
 
