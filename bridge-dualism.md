@@ -2,7 +2,7 @@
 
 By OJ Bucao and Claude Opus 4.7
 
-Disclaimer: This paper presents an exploratory philosophical model developed through iterative discussion and refinement. It is not yet a fully researched or source-grounded work, and several claims will require further engagement with the primary literature. The central architectural ideas—particularly the bridge model, the opacity principle, and the proposed mechanism of interaction—are my original contributions, developed and refined through dialogue. While AI-assisted drafting was used in shaping this document, the underlying structure, claims, and direction reflect my own thinking. This should be read as a structured proposal rather than a finished argument: a model intended to be clarified, challenged, and strengthened through further study and critique.
+Disclaimer: This paper presents an exploratory philosophical model developed through iterative discussion and refinement. It is not yet a fully researched or source-grounded work, and several claims will require further engagement with the primary literature. The central architectural ideas—particularly the bridge model, the opacity principle, and the proposed mechanism of interaction, as well as all the arguments and perspectives—are my original contributions, developed and refined through dialogue. While AI-assisted drafting was used in shaping this document, the underlying structure, claims, and direction reflect my own thinking. This should be read as a structured proposal rather than a finished argument: a model intended to be clarified, challenged, and strengthened through further study and critique.
 
 ----------
 
